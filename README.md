@@ -15,3 +15,5 @@ https://www.djing.com/tv/classics.m3u8
 https://www.djing.com/tv/session_summer-vibes.m3u8
 #EXTINF:DJING4
 https://www.djing.com/tv/underground.m3u8
+#EXTINF:BUZZR
+https://www.nicholastodor.com/buzzr/live.m3u8
